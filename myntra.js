@@ -1,3 +1,0 @@
-function myFun(){
-    alert("hi")
-}
